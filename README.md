@@ -11,7 +11,7 @@ Attack: Directly damage your opponent.
 
 Defend: Reduce incoming damage from the opponent's next attack.
 
-Buff: Increase your damage output by 20 for the next three turns.
+Buff: Increase your damage output by 30 for the next three turns.
 
 Debuff: Reduce your opponent's defense to 0 for the next three turns.
 
