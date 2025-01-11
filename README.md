@@ -6,7 +6,6 @@ Gameplay: In this game, player and enemies take turns to perform one of several 
 
 
 Actions:
-
 Attack: Directly damage your opponent.
 
 Defend: Reduce incoming damage from the opponent's next attack.
@@ -18,8 +17,15 @@ Debuff: Reduce your opponent's defense to 0 for the next three turns.
 Bleed: Inflict a bleed effect that reduces the opponent's health by 10 points per turn for five turns.
 
 
-Features:
+Enemy AI: 
+The enemy will randomly choose between two actions:
 
+Attack: The enemy will deal 10 damage to the player.
+
+Defend: The enemy will reduce the player's attack damage by 15.
+
+
+Features:
 Single-Player Mode: Battle against 1 to 4 enemies, depending on the round.
 
 Strategic Depth: Plan your moves carefully to outsmart your opponents.
